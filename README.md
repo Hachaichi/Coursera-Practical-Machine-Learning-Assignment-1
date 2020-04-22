@@ -1,4 +1,4 @@
-# Practical Machine Learning Assignment 1
+# Practical Machine Learning Assignment
 
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about 
 personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts 
